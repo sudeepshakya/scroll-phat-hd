@@ -23,7 +23,7 @@ DISPLAY_BAR = False
 BRIGHTNESS = 0.3
 
 # Uncomment to rotate
-#scrollphathd.rotate(180)
+scrollphathd.rotate(180)
 
 while True:
     scrollphathd.clear()
